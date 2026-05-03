@@ -1,0 +1,116 @@
+<!doctype html>
+<!--
+  404.html — Saszik Lab site
+  GitHub Pages serves this automatically for any unmatched path.
+-->
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Page Not Found — Saszik Lab</title>
+  <meta name="robots" content="noindex" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg" />
+  <script type="module" src="assets/js/theme.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --color-bg: #FAFAF7; --color-surface: #FFFFFF;
+      --color-text: #1A1B18; --color-text-muted: #5A5B56;
+      --color-border: #E6E5DF; --color-accent: #7A2E1F;
+      --color-accent-soft: #F4EAE4;
+    }
+    [data-theme="dark"] {
+      --color-bg: #111210; --color-surface: #1A1B18;
+      --color-text: #EDEDE8; --color-text-muted: #9A9B96;
+      --color-border: #2A2B27; --color-accent: #C97A65;
+      --color-accent-soft: #2A1B16;
+    }
+    html { background-color: var(--color-bg); color: var(--color-text); }
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Inter', system-ui, sans-serif;
+      padding: 2rem;
+      text-align: center;
+      background-color: var(--color-bg);
+      color: var(--color-text);
+    }
+    .error-number {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: clamp(6rem, 20vw, 12rem);
+      font-weight: 400;
+      line-height: 1;
+      color: var(--color-accent);
+      opacity: 0.15;
+      letter-spacing: -0.04em;
+      user-select: none;
+      position: absolute;
+      z-index: 0;
+    }
+    .error-content {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+    }
+    h1 {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: clamp(1.75rem, 5vw, 2.5rem);
+      font-weight: 500;
+      color: var(--color-text);
+    }
+    p {
+      font-size: 1.0625rem;
+      color: var(--color-text-muted);
+      max-width: 45ch;
+      line-height: 1.65;
+    }
+    a.home-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4em;
+      margin-top: 0.5rem;
+      padding: 0.75em 1.75em;
+      background-color: var(--color-accent);
+      color: #fff;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9375rem;
+      text-decoration: none;
+      transition: opacity 150ms ease;
+    }
+    a.home-link:hover { opacity: 0.85; }
+    .lab-tag {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--color-text-muted);
+      margin-bottom: 0.25rem;
+    }
+  </style>
+</head>
+<body>
+  <span class="error-number" aria-hidden="true">404</span>
+  <div class="error-content">
+    <p class="lab-tag">Saszik Lab</p>
+    <h1>Page not found</h1>
+    <p>
+      The page you're looking for doesn't exist or may have been moved.
+      Try heading back to the main site.
+    </p>
+    <a href="index.html" class="home-link">← Back to Saszik Lab</a>
+  </div>
+</body>
+</html>

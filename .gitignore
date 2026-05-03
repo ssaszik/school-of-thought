@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Claude Code internals
+.claude/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Graphify
+graphify-out/cache/

@@ -1,0 +1,9 @@
+# robots.txt — Saszik Lab site
+# Allow all crawlers. Disallow the data/ directory (JSON files, not human content).
+
+User-agent: *
+Allow: /
+Disallow: /data/
+
+Sitemap: https://saszyklab.neiu.edu/sitemap.xml
+# developer to replace the above URL with the confirmed domain

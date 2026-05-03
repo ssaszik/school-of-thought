@@ -1,0 +1,52 @@
+{
+  "_comment": "Research config ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ exported from the ?edit=true admin drawer. Commit this file to make changes permanent. The site reads localStorage first, falling back to these JS defaults.",
+  "profile": {
+    "name": "Dr. Shannon Saszik",
+    "short_name": "S. Saszik",
+    "title": "Associate Professor of Psychology & Department Chair",
+    "institution": "Northeastern Illinois University",
+    "department": "Department of Psychology",
+    "contact_email": "s-saszik@neiu.edu",
+    "office": "Bernard Brommel Hall (BBH), Room 307B",
+    "orcid": "0000-0002-5772-2616"
+  },
+  "research": {
+    "description": "We combine in vivo electroretinography, behavioral assays, and molecular approaches to understand retinal development and plasticity in zebrafish. Current work focuses on how early environmental exposures light, stress, and ethanol reshape visual circuits across development, with translational implications for fetal alcohol spectrum disorders and visual system pathology.",
+    "keywords": [
+      "Zebrafish",
+      "Electroretinography",
+      "Retinal Development",
+      "Visual Neuroscience",
+      "Fetal Alcohol Spectrum",
+      "Behavioral Neuroscience",
+      "Photoreceptors",
+      "ERG",
+      "NEIU"
+    ],
+    "activeProjects": [
+      "Developmental ERG Profiling across larval to adult life stages",
+      "Ethanol exposure effects on retinal circuits and FASD models",
+      "Stress, social behavior, and visual processing in adult zebrafish"
+    ]
+  },
+  "citations": {
+    "source": "openalex",
+    "keywords": [
+      "zebrafish visual system",
+      "electroretinogram",
+      "retinal physiology",
+      "sensation and perception",
+      "fetal alcohol syndrome zebrafish model",
+      "cone photoreceptor function"
+    ],
+    "min_year": 2020,
+    "max_results_total": 15,
+    "max_results_per_keyword": 5,
+    "exclude_keywords_in_title": [
+      "erratum",
+      "correction",
+      "retraction"
+    ],
+    "last_updated": "2026-04-24"
+  }
+}

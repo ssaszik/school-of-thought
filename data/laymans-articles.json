@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-05-01T09:27:19Z",
+  "source": "rss_feeds",
+  "feed_sources": [
+    "Neuroscience News",
+    "Quanta Magazine",
+    "Science Daily",
+    "EurekAlert!"
+  ],
+  "results": [
+    {
+      "title": "Intelligence emerges when the whole brain works as one",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
+      "date": "2026-03-03",
+      "summary": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system?...",
+      "language": "en"
+    },
+    {
+      "title": "Depression may start with an energy problem in brain cells",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260312020107.htm",
+      "date": "2026-03-12",
+      "summary": "Researchers have discovered a surprising change in how cells produce energy in people with depression. Brain and blood cells in young adults with major depressive disorder produced more energy...",
+      "language": "en"
+    },
+    {
+      "title": "Boosting a key brain protein could help treat Rett syndrome",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260306145621.htm",
+      "date": "2026-03-06",
+      "summary": "Researchers have discovered a new way to increase a key brain protein damaged in Rett syndrome, a rare genetic disorder that affects thousands of children worldwide. Early studies in mice and...",
+      "language": "en"
+    },
+    {
+      "title": "Simple blood test can forecast Alzheimer’s years before memory loss",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
+      "date": "2026-02-22",
+      "summary": "Scientists have created a blood test that can estimate when Alzheimer’s symptoms are likely to begin. By measuring a protein called p-tau217, the model predicts symptom onset within roughly three to...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
+      "date": "2026-03-03",
+      "summary": "A new study has uncovered why some brain cells are more resistant to Alzheimer’s damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form...",
+      "language": "en"
+    },
+    {
+      "title": "New drug cuts seizures by up to 91% in children with rare epilepsy",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260304184215.htm",
+      "date": "2026-03-04",
+      "summary": "A new experimental drug is showing remarkable promise for children with Dravet syndrome, a severe genetic form of epilepsy. In clinical trials, the treatment zorevunersen cut seizures by as much as...",
+      "language": "en"
+    },
+    {
+      "title": "This ancient sea creature may already have had a brain",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260305223208.htm",
+      "date": "2026-03-05",
+      "summary": "Advanced 3D reconstructions of the comb jelly’s aboral organ reveal a sensory system far more complex than scientists expected. The organ contains a wide variety of specialized cells and is closely...",
+      "language": "en"
+    },
+    {
+      "title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
+      "date": "2026-03-06",
+      "summary": "Scientists studying 1,300 golden retrievers have uncovered genetic clues explaining why some dogs are more anxious, energetic, or aggressive than others. Remarkably, several of the same genes linked...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists discover hidden brain cells that may stop Alzheimer’s tau buildup",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260307155945.htm",
+      "date": "2026-03-07",
+      "summary": "Scientists have uncovered a surprising new role for little-known brain cells called tanycytes that may influence the development of Alzheimer’s disease. These specialized cells appear to help remove...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "date": "2026-03-30",
+      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance....",
+      "language": "en"
+    },
+    {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "date": "2026-04-17",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These...",
+      "language": "en"
+    },
+    {
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "date": "2026-04-29",
+      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur...",
+      "language": "en"
+    },
+    {
+      "title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
+      "date": "2026-02-21",
+      "summary": "A common bacterium best known for causing pneumonia and sinus infections may also play a surprising role in Alzheimer’s disease. Researchers found that Chlamydia pneumoniae can invade the retina and...",
+      "language": "en"
+    },
+    {
+      "title": "Alzheimer’s may begin with a silent drop in brain blood flow",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260224023159.htm",
+      "date": "2026-02-24",
+      "summary": "Subtle changes in brain blood flow and oxygen use are closely linked to hallmark signs of Alzheimer’s, including amyloid plaques and memory-related brain shrinkage. Simple, noninvasive scans may one...",
+      "language": "en"
+    },
+    {
+      "title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
+      "date": "2026-02-28",
+      "summary": "Scientists at Rice University have produced the first full, dye-free molecular atlas of an Alzheimer’s brain. By combining laser-based imaging with machine learning, they uncovered chemical changes...",
+      "language": "en"
+    }
+  ]
+}

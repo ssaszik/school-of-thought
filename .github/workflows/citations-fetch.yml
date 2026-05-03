@@ -1,0 +1,46 @@
+name: Monthly citation and news fetch
+
+on:
+  schedule:
+    # 1st of each month at 08:00 UTC
+    - cron: '0 8 1 * *'
+  workflow_dispatch:
+    # Manual trigger from Actions tab
+
+jobs:
+  fetch-citations:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch academic citations (OpenAlex)
+        run: python scripts/fetch_citations.py
+
+      - name: Fetch news articles (RSS feeds)
+        run: python scripts/fetch_news.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/citations.json data/laymans-articles.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/citations.json data/laymans-articles.json
+          git commit -m "chore(citations): monthly refresh $(date +'%Y-%m')"
+          git push

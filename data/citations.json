@@ -1,0 +1,312 @@
+{
+  "generated_at": "2026-05-01T09:27:16Z",
+  "source": "openalex",
+  "query_summary": "zebrafish visual system, electroretinogram, retinal physiology, sensation and perception, fetal alcohol syndrome zebrafish model, cone photoreceptor function",
+  "results": [
+    {
+      "title": "A Sea Mud Feed Matrix Shapes Short-Term Dietborne Glyphosate Exposure in the Sea Cucumber (Apostichopus japonicus): Tissue Residues, Buffered Enzyme Responses, and Dominance-Structured Gut Microbiota Shifts",
+      "authors": [
+        "Jingchun Sun",
+        "Libin Zhang",
+        "Christopher D. Hepburn",
+        "Shaoping Kuang",
+        "Hongsheng Yang"
+      ],
+      "venue": "Animals",
+      "year": 2026,
+      "doi": "10.3390/ani16091344",
+      "url": "https://www.mdpi.com/2076-2615/16/9/1344/pdf?version=1777364451",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Deposit-feeding sea cucumbers ingest sediment-like particles, making substrate-associated exposure pathways ecologically relevant in coastal aquaculture. In this study, a sea mud feed matrix was used to evaluate short-term dietborne/substrate-linked glyphosate exposure in Apostichopus japonicus over 72 h, with the aim of characterizing early residue formation, short-term sublethal biomarker responses, and gut microbiota shifts under a benthic feeding scenario. Analytical verification confirmed a clear glyphosate gradient in the prepared feed matrices, with no glyphosate detected in the control matrix and measured concentrations of 8.66 ± 1.59 mg/kg, 1330 ± 390 mg/kg, and 6960 ± 1710 mg/kg in the low-, medium-, and high-dose groups, respectively. No mortality or obvious external lesions were observed during the exposure period. Tissue analysis confirmed measurable internal glyphosate residues and compartment-specific distribution, indicating successful internal exposure under the matrix-linked route. Most digestive and immune/antioxidant biomarkers remained relatively stable within the 72 h window; however, amylase showed a marked response in the low-dose group, and superoxide dismutase showed dose-associated changes in the medium- and high-dose groups, indicating selective sensitivity among enzyme endpoints. Gut microbiota analysis revealed a dominance-structured community with limited alpha-diversity variation among groups, whereas community composition showed subtle treatment-related shifts that were more evident at finer taxonomic resolution. Predicted functional profiles remained broadly similar across treatments. Overall, the 72 h exposure design was effective for identifying early internal exposure and short-term biological responses under a sea mud-associated feeding route, while host physiological responses remained largely buffered over this time scale and the gut microbiota provided a more sensitive interface-level signal of exposure-associated change. These findings support the value of a route-specific, gut-centered framework for evaluating early herbicide exposure responses in benthic mariculture species and suggest that matrix-associated feeding conditions may modify the apparent magnitude of short-term responses.",
+      "language": "en",
+      "matched_keyword": "zebrafish visual system",
+      "source": "openalex"
+    },
+    {
+      "title": "A Serotoninomic Framework for Reproductive and Integrative Toxicology: Molecular, Neurochemical, and Behavioural Perspectives on Permethrin Exposure",
+      "authors": [
+        "Francisco Jiménez-Trejo",
+        "Liliana Carmona-Aparicio",
+        "Elvia Coballase-Urrutía",
+        "Katia L. Jiménez-García",
+        "Cristian Arriaga-Canon",
+        "Luis A. Herrera"
+      ],
+      "venue": "Toxics",
+      "year": 2026,
+      "doi": "10.3390/toxics14050365",
+      "url": "https://www.mdpi.com/2305-6304/14/5/365/pdf?version=1777039406",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Serotoninomics, a nascent emerging discipline within the field of omics, provides a transdisciplinary framework for understanding reproductive toxicology via serotonergic signalling. This research investigates the neuroendocrine effects of permethrin, a commonly used pyrethroid insecticide often considered to pose a low risk to humans, and positions it as a model compound for evaluating reproductive susceptibility beyond conventional endocrine endpoints. It is hypothesized that serotonin, traditionally examined in neuropsychiatric contexts, plays an essential role in gonadal function, hormonal regulation, and emotional resilience. Although permethrins are generally regarded as safe, acute exposure may subtly interfere with serotonergic pathways, potentially resulting in molecular, biochemical, behavioural, and reproductive alterations. These effects could extend beyond immediate exposure, including during gestation, considering permethrins’ ability to cross the placental barrier and influence foetal development. By synthesizing evidence across molecular, organismal, and environmental domains, we advocate for a serotonergic approach to facilitate a more comprehensive assessment of risk and resilience. We emphasize the importance of fostering a transdisciplinary dialogue to redefine reproductive health through the perspectives of serotonergic vulnerability and systemic resilience.",
+      "language": "en",
+      "matched_keyword": "fetal alcohol syndrome zebrafish model",
+      "source": "openalex"
+    },
+    {
+      "title": "Adaptive Optics RTX1 Imaging for Early Detection of Retinal Vascular Remodeling in Hypertensive Retinopathy: A Review",
+      "authors": [
+        "Mateusz Zabochnicki",
+        "Agnieszka Łebek-Szatańska",
+        "Monika Łazicka-Gałecka",
+        "Anna Zaleska-Żmijewska",
+        "A. Januszewicz",
+        "Jacek P. Szaflik"
+      ],
+      "venue": "Journal of Clinical Medicine",
+      "year": 2026,
+      "doi": "10.3390/jcm15093376",
+      "url": "https://www.mdpi.com/2077-0383/15/9/3376/pdf?version=1777382482",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Background/Objectives: Arterial hypertension might lead to serious organ damage and complications like hypertensive retinopathy. The retina is the only place in the human body where microscopic blood vessels can be directly investigated. This enables early diagnosis of arterial hypertension-mediated organ damage. Untreated hypertensive retinopathy leads to vision loss in its advanced stages. There are many methods of assessing changes in the arterioles; however, the most accurate is adaptive optics (RTX1™ device with AODetectArtery software, ver. 3.0., Imagine Eyes, Orsay, France). It provides a resolution of 1.6 μm, which is superior to conventional imaging techniques. Optical coherence tomography angiography can serve as an early, minimally invasive marker of microvascular damage. Across the studies analyzed, the WLR (Wall-to-Lumen Ratio) exhibited significantly higher values when comparing individuals with hypertensive retinopathy to normotensives (0.31 vs. 0.26). The main aim of this review is to present the application of adaptive optics in the early diagnosis of hypertensive retinopathy. Methods: The search strategy included 267 original studies, among which 12 were selected to be described and analyzed in this review based on criteria including original research and studies performed on humans with hypertensive retinopathy. Results: RTX1™ enables the assessment of arterial parameters such as the Wall Thickness (WT), Lumen Diameter (LD), Outer Diameter (OD), Wall-to-Lumen Ratio (WLR) and Wall Cross Sectional Area (WCSA). These parameters differ depending on the arterial hypertension. The WLR was identified to be the parameter that differs in the vast majority of analyzed studies when comparing hypertensive patients to normotensive patients. Vascular parameters were also found to change depending on different organisms’ states, treatment applications and etiological causes of disease. Furthermore, changes in retinal arterial parameters were associated with increased cardiovascular risk in observational studies. RTX1™ was also identified to provide very good intra- and interobserver variability. Conclusions: RTX1™ is a valuable tool in the examination of arterial vessels and in establishing associations between retinal vascular parameters and a patient’s clinical state.",
+      "language": "en",
+      "matched_keyword": "cone photoreceptor function",
+      "source": "openalex"
+    },
+    {
+      "title": "Advances in the Role of the CD40–CD154 Pathway in the Pathogenesis of Diabetic Retinopathy",
+      "authors": [
+        "Carlos S. Subauste"
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "year": 2026,
+      "doi": "10.3390/ijms27093862",
+      "url": "https://www.mdpi.com/1422-0067/27/9/3862/pdf?version=1777282787",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Diabetic retinopathy is one of the most important complications of diabetes. It is a leading cause of visual loss in the world. While adequate control of hyperglycemia, hypertension and hyperlipidemia can decrease the prevalence of diabetic retinopathy, 60% of patients with type 2 diabetes develop this complication whereas it is estimated that most patients with type 1 diabetes will develop diabetic retinopathy. Upregulation of various pro-inflammatory molecules and vascular endothelial growth factor (VEGF) play a central role in the pathogenesis of the disease. Here we review the role of CD40 as an upstream inducer of these abnormalities and the development of diabetic retinopathy.",
+      "language": "en",
+      "matched_keyword": "electroretinogram",
+      "source": "openalex"
+    },
+    {
+      "title": "An Absolute Manner of Seeing: Flaubert, 1848, and the Development of Modernist Style",
+      "authors": [
+        "Nicholas Olson"
+      ],
+      "venue": "CUNY Academic Works (City University of New York)",
+      "year": 2026,
+      "doi": "",
+      "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=7745&context=gc_etds",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "This dissertation examines Gustave Flaubert’s Sentimental Education as a key work in the emergence of literary Modernism from the tradition of Realism. I begin by exploring the intellectual background of Realism in the works of Honoré de Balzac and the ties between this aesthetic theory and the theory of representative government: here I discuss the work of François Guizot, Friedrich Schiller, Friedrich Schlegel, J.W. Goethe, and Walter Scott as well as later thinkers like György Lukács, Pierre Bourdieu, Jürgen Habermas, and Jacques Rancière. From this, I demonstrate a commonly held theory of the social as a discreet totality, which makes its subtending objects legible to the knowing subject as types. Through close reading, I show how Flaubert anticipates and undermines the outlook of the knowing reader. With the absence of the authorial voice and through the use of free indirect discourse, Flaubert’s novel depends upon the readers’ typical vision of society and, at the same time, ironizes such a vision. Rather than the representational authority offered by Balzacian Realism–the claim that the novel is a reflection of the hidden moteur social–what Flaubert offers is a way of seeing commensurate with literary style, which inheres its historicity while overcoming it. In his depiction of the events of 1848, Flaubert shows the limits and corruptability of representational logic in the Second Republic. Finally, I argue that Flaubert’s way of seeing, style, can be seen as an ideal form of labor for its own sake, so that, rather than simply dismissing politics, Flaubert’s concept of style corresponds to struggles of a working class that, in 1848, began to speak in its own name.",
+      "language": "en",
+      "matched_keyword": "sensation and perception",
+      "source": "openalex"
+    },
+    {
+      "title": "Association of heavy metal mixtures with liver function biomarkers: multi-model analysis identifies cadmium as the primary driver",
+      "authors": [
+        "Honglong Zhang",
+        "Xingwang Zhu",
+        "Meng Tian",
+        "Tingting Wang",
+        "Ruipeng Wang",
+        "Mingtong Zhang",
+        "Jun Yan",
+        "Xun Li"
+      ],
+      "venue": "Frontiers in Public Health",
+      "year": 2026,
+      "doi": "10.3389/fpubh.2026.1817191",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1817191/pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Background Evidence regarding the hepatotoxic effects of co-exposure to multiple heavy metals in the general middle-aged and older adults population remains limited. This study aimed to investigate the association between heavy metal mixtures and liver function in the population of Northwest China, with key findings supported using an animal model. Methods We conducted a cross-sectional study involving 451 participants from the Dongdagou Xinglong cohort. Concentrations of heavy metals and liver function indices were measured. Multiple linear regression, Bayesian kernel machine regression (BKMR), weighted quantile sum (WQS), and quantile-based g-computation (Qgcomp) regression were employed to evaluate the combined effects of co-exposure to multiple heavy metals on liver function. A sub-chronic cadmium (Cd) exposure rat model was further established to validate population-based findings. Results Multiple linear regression analysis revealed that blood Cd was positively correlated with GGT (β = 0.236), TBA (β = 0.162), ALT (β = 0.142) and AST (β = 0.114), while negatively correlated with DBil (β = −0.207), TBil (β = −0.166) and IBil (β = −0.157) (all P &amp;lt; 0.05). Similarly, other heavy metals also exhibited significant associations with liver function indicators. BKMR analysis showed that heavy metal mixture exposure was positively associated with ALT, AST, ALP, GGT, CHE, and TBA, but negatively associated with TBil, DBil, and IBil; WQS regression indicated that positive associations between the metal mixture and GGT as well as CHE; and the Qgcomp model demonstrated that the metal mixture was positively associated with ALT, GGT, and TBA, and negatively associated with TBil, DBil, and IBil. Notably, all three statistical models consistently identified Cd as the factor associated with liver function biomarkers. Furthermore, animal experiments provided experimental evidence consistent with the human findings: Cd exposure led to elevated serum GGT and ALP levels and induced histopathological alterations in the liver. Transcriptomic sequencing suggested that hepatic lipid metabolism pathways may be involved in Cd-induced liver injury. Conclusions Overall, our study shows that co-exposure to heavy metals is associated with liver function biomarkers in middle-aged and older adults, with Cd identified as the predominant factor associated with liver function biomarkers.",
+      "language": "en",
+      "matched_keyword": "zebrafish visual system",
+      "source": "openalex"
+    },
+    {
+      "title": "Benthic Literacies: Glossing the Seabeds",
+      "authors": [
+        "Kilian Quigley",
+        "Pandora Syperek",
+        "Giulia Champion",
+        "Rachael Squire",
+        "Charne Lavery",
+        "Fiona Middleton",
+        "Laurence Publicover",
+        "Jol Thoms"
+      ],
+      "venue": "Goldsmiths (University of London)",
+      "year": 2026,
+      "doi": "",
+      "url": "https://research.gold.ac.uk/id/eprint/39809/1/Quigley%20et%20al.%20-%20Glossing%20the%20Seabeds%20%282026%29%20%28preprint%29.pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Since its emergence in the 1990s, the concept of an “ocean literacy” has gained increasing currency from scientists, advocacy groups, governments, and international organizations. For many, its importance has never been greater than now, when the unprecedented intensity and confluence of anthropogenic warming and resource extraction has begun transforming–and often devastating–marine places, relations, and lives. All the while, however, the ocean literacy idea and its constitutive preoccupations with reading and writing have invited critical scrutiny from environmental humanists (among others) skeptical of attempts to stretch the logosphere to encompass the seas. This eight-part glossary for the seabeds figures one approach to negotiating this tension. Our research collective—whose members reside in and across the disciplines of literature, geography, geology, art history, and art practice—offers glosses that work, variously and occasionally even at variance, to clarify seafloor natures; to vivify the socioecological entanglements that have long—and diversely—tied anthropic to benthic realms; and to illustrate seabeds’ unruly effects upon the very possibilities of scrutation and inscription. Alien, flocculent, green, museum, plume, reserve, submersive, vent: glossing these terms, we register our coincident commitments to the real affordances of benthic reading and writing and the recognition of the seabeds’ equally real and irreducible semiotic strangeness.",
+      "language": "en",
+      "matched_keyword": "sensation and perception",
+      "source": "openalex"
+    },
+    {
+      "title": "Biochemical and Biotechnological Approaches to Disease Diagnosis and Therapeutics: A Comprehensive Review",
+      "authors": [
+        "Pallavi Kadwe",
+        "Lipika Jena",
+        "Diptimayee Jena",
+        "Yugantar Wakde",
+        "Sadhana Kakaso Pawar",
+        "Deeptak Biswas"
+      ],
+      "venue": "Cureus",
+      "year": 2026,
+      "doi": "10.7759/cureus.107864",
+      "url": "https://www.cureus.com/articles/485878-biochemical-and-biotechnological-approaches-to-disease-diagnosis-and-therapeutics-a-comprehensive-review.pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Advances in biochemical and biotechnological sciences have transformed modern medical practice, enabling earlier disease detection and more precise therapeutic interventions. The increasing complexity of oncological, infectious, metabolic, and degenerative diseases necessitates diagnostic and therapeutic systems capable of accurately interpreting subtle molecular variations. This review synthesises key innovations in biochemical diagnostics and biotechnology-driven therapeutics, highlighting their clinical relevance and contribution to precision medicine. Recent advancements have significantly improved early disease identification, molecular characterisation, and targeted treatment strategies. These approaches enable minimally invasive monitoring, enhance diagnostic accuracy, and support personalised clinical decision-making across diverse disease conditions. Overall, biochemical and biotechnological innovations are central to advancing precision medicine, and continued validation, optimisation, and integration into healthcare systems will be essential for improving clinical outcomes and sustaining long-term progress.",
+      "language": "en",
+      "matched_keyword": "retinal physiology",
+      "source": "openalex"
+    },
+    {
+      "title": "Buttressing Britain’s Financial Rise: Anglo-Dutch Brokers in Eighteenth-Century London",
+      "authors": [
+        "Jiwon Han"
+      ],
+      "venue": "CUNY Academic Works (City University of New York)",
+      "year": 2026,
+      "doi": "",
+      "url": "https://academicworks.cuny.edu/context/gc_etds/article/7737/viewcontent/Jiwon_Han_Dissertation_deposit_updated.pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Over the course of the eighteenth century, British financial markets developed remarkably and London established itself as the financial center of Europe, replacing Amsterdam. Scholarship on Britain’s financial developments in the eighteenth century has largely understood it as the result of British efforts and innovation. This dissertation complicates that understanding by investigating the Anglo-Dutch merchants in eighteenth-century London and their contributions to the development of British financial markets. In particular, their support was essential for the British government’s war finances, because Britain’s continuous wars against France demanded an immense amount of money and credit while its financial markets were still in a formative stage. The Anglo-Dutch merchants consisted of diverse groups, including the Dutch and British Christians, Huguenots and Jews, and acted as prominent brokers in supplying and circulating the capital and credit with their family, social and business connections, as well as their expertise. Their good connections in the Continent, especially in the Netherlands, and within Britain were crucial in the eighteenth-century market, at a time when a relatively smaller number of debtors and creditors interacted with each other and the social relations and business activities were inevitably interwoven. The first half of the dissertation focuses on three families that were active in the mid-eighteenth century: Gerard and Joshua van Neck, Charles and Peter van Notten, and Henry and Peter Muilman. The second half focuses on Benjamin and Abraham Goldsmid, who were active from the 1780s until 1810. The stability and confidence in the financial markets acquired with the contributions of the Anglo-Dutch merchants fueled Britain’s financial strength in the following century to function as the center of European finance.",
+      "language": "en",
+      "matched_keyword": "sensation and perception",
+      "source": "openalex"
+    },
+    {
+      "title": "Characteristics of striatal changes in diabetic retinopathy and type 2 diabetes: a resting-state functional magnetic resonance imaging study",
+      "authors": [
+        "Man Song",
+        "Siyi Lai",
+        "Shimei Wei",
+        "Liangyan Yi",
+        "Duan Wang",
+        "Zefeng Kang",
+        "Guanghui Liu"
+      ],
+      "venue": "Frontiers in Human Neuroscience",
+      "year": 2026,
+      "doi": "10.3389/fnhum.2026.1765793",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1765793/pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "The presence of reward-related neural deficits in type 2 diabetes mellitus (T2DM) and its microvascular complications has been linked to abnormal striatal function. However, differences in striatal whole-brain functional connectivity (FC) between patients with diabetic retinopathy (DR) and those with T2DM without retinopathy remain unclear. In this study, 30 patients with DR, 30 with T2DM, and 29 healthy controls (HCs) were recruited. A seed-based FC approach was employed to analyze alterations across six predefined striatal subregions among the three groups and to examine correlations between abnormal FC patterns and clinical cognitive performance. Results revealed that, compared with the T2DM group, the DR group exhibited reduced FC between several striatal subregions and key nodes within the salience, cognitive control, visual, reward, and sensorimotor networks. Notably, in the DR group, MoCA scores showed a positive correlation with FC between the right dorsal rostral putamen and the left insula. These findings provide novel evidence for distinct striatal circuit alterations in DR and may contribute to identifying neuroimaging markers for its early detection and intervention.",
+      "language": "en",
+      "matched_keyword": "retinal physiology",
+      "source": "openalex"
+    },
+    {
+      "title": "Clinical case of an inherited retinal disease with late manifestation",
+      "authors": [
+        "Kh Kh Altemirova",
+        "I A Ronzina",
+        "A A Plyukhova",
+        "N L Sheremet"
+      ],
+      "venue": "Russian Annals of Ophthalmology",
+      "year": 2026,
+      "doi": "10.17116/oftalma202614202150",
+      "url": "https://doi.org/10.17116/oftalma202614202150",
+      "pmid": "42048096",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42048096/",
+      "abstract": "Rod-cone dystrophy (RCD) is one of the forms of inherited retinal diseases (IRDs) caused by photoreceptor degeneration and leading to significant loss of visual function. In some cases, patients with late-onset RCD do not independently report complaints typical of IRDs, and standard and additional ophthalmological examinations performed using conventional methods fail to reveal pathological changes, which complicates and delays diagnosis. This article presents a case of late-onset RCD diagnosed through the active identification of characteristic complaints, thorough medical history taking, and targeted use of modern functional and structural retinal imaging techniques with an extended visualization range.",
+      "language": "en",
+      "matched_keyword": "cone photoreceptor function",
+      "source": "openalex"
+    },
+    {
+      "title": "Comparison of monofocal and multifocal contact lenses on binocular distance optical performance in non-presbyopic participants",
+      "authors": [
+        "Alba Castro-Giraldez",
+        "Anton Diaz-Pombo",
+        "Jacobo García-Queiruga",
+        "Hugo Pena-Verdeal",
+        "María J. Giráldez",
+        "Eva Yebra-Pimentel"
+      ],
+      "venue": "Spektrum der Augenheilkunde",
+      "year": 2026,
+      "doi": "10.1007/s00717-026-00617-x",
+      "url": "https://link.springer.com/content/pdf/10.1007/s00717-026-00617-x.pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Summary Purpose To compare binocular distance optical performance in non-presbyopic optometry students under different contact lens conditions: no lenses, monofocal lenses, and multifocal lenses. Methods A total of 20 optometry students (age: 23.00 ± 2.58 years) meeting eligibility criteria were recruited. The study employed a randomized crossover design with two sessions: (1) baseline without contact lenses (W-CL), and (2) experimental where each participant was fitted with monofocal contact lenses (M-CL; Clariti 1‑Day) and multifocal contact lenses (MF-CL; Clariti 1‑Day Multifocal) in random order, using the permutation method balanced 1:1 across participants within the same session. Optical performance was assessed by measuring binocular distance visual acuity parameters (corrected distance visual acuity [CDVA] and dynamic visual acuity [DVA]) and binocular depth perception parameters (fixation disparity and stereopsis), using the OptoTab POLAR 24″ SMT4V device under standardized conditions. Results Significant differences in visual acuity parameters (CDVA and DVA) were found across conditions (repeated measures ANOVA, p &lt; 0.001), with post hoc analysis showing reduced acuity for MF-CL vs. W‑CL and M‑CL (Sidak, all p ≤ 0.002). For both parameters, effect sizes were negligible between W‑CL and M‑CL (all Cohen’s d = 0.07–0.09), and small and clinically meaningful when MF-CL was involved (all Cohen’s d = 0.08–0.17). No significant differences in depth perception parameters (fixation disparity or stereopsis) were found across conditions (all p ≥ 0.103) with negligible to small effect sizes (Cohen’s d , all p ≥ 0.38). Conclusion In non-presbyopic participants, MF-CL significantly reduced visual acuity parameters compared to M‑CL and W‑CL, but not optical performance related to binocular vision.",
+      "language": "en",
+      "matched_keyword": "retinal physiology",
+      "source": "openalex"
+    },
+    {
+      "title": "Comprehensive multiomics analyses identify guanylate cyclase activator 1A as a photoreceptor-specific target in a murine model of oxygen-induced retinopathy.",
+      "authors": [
+        "Qianhui Yang",
+        "Jindan Wang",
+        "Tongrui Wu",
+        "Siyi Liu",
+        "Yumin Zhang",
+        "Xinglong Wang",
+        "W X Zhang",
+        "Hua Rong",
+        "Mengyu Wu",
+        "Yating Zhao",
+        "Yunshan Cao",
+        "Min Zhang",
+        "Hui Shen",
+        "Yan Zhang"
+      ],
+      "venue": "PubMed",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-08207-w",
+      "url": "https://doi.org/10.1186/s12967-026-08207-w",
+      "pmid": "42057040",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42057040/",
+      "abstract": "BACKGROUND: Retinopathy of prematurity (ROP), the leading cause of childhood blindness, is considered a vascular retinopathy; however, clinical studies have reported persistent electrophysiological dysfunctions in some ROP patients with remitted vasculopathy, resulting in severe visual impairments. Therefore, this study sought to unravel the mechanisms underlying persistent electrophysiological dysfunctions and identify a neuronal target in a murine model of oxygen-induced retinopathy (OIR), a widely used animal model for ROP. METHODS: Retinal vascular morphology and leakage were examined by isolectin B4 staining and fluorescein fundus angiography in the OIR mouse model at P17 and P25. Full-field electroretinogram (ERG) was performed. Moreover, P17 retinas were analyzed with metabolomics and transcriptomics, and the results were validated by quantitative PCR (qPCR) and Western blotting (WB). Whole-cell patch clamp was used to evaluate phototransduction. Lentiviral particles carrying guanylate cyclase activator 1A (Guca1a) cDNA driven by a mouse rod opsin promoter were intravitreally injected into OIR mice, and immunofluorescence, ERG, patch clamp, cGMP measurement, and TUNEL staining were performed for assessments. RESULTS: Vascular lesions in OIR retinas peaked at P17 and recovered at P25. However, a wave and b wave amplitudes in dark- and light-adapted ERGs under all light intensities were deficient at both developmental stages, and electrophysiological dysfunctions persisted in P32 OIR retinas. Multiomics indicates phototransduction defects in isolated photoreceptors. QPCR and WB validated the reduced Guca1a mRNA and its encoding protein levels in P17 and P25 OIR retinas. Patch clamp demonstrated impaired light responses of single rods. Furthermore, lentivirus-mediated photoreceptor-specific expression of GUCA1A recovered electrophysiological functions, improved single rod phototransduction, increased cGMP concentration, and reduced cell death in P17 and P25 OIR retinas. CONCLUSIONS: The reduced GUCA1A in photoreceptors is mainly responsible for persistent electrophysiological dysfunctions in OIR mouse retinas, even after the recovery of vessel damage. The photoreceptor GUCA1A may serve as a neuronal target for ROP intervention.",
+      "language": "en",
+      "matched_keyword": "electroretinogram",
+      "source": "openalex"
+    },
+    {
+      "title": "Crosstalk along the gut-liver axis modulates glutathione and cadmium-induced hepatotoxicity",
+      "authors": [
+        "Azhagu Madhavan Sivalingam"
+      ],
+      "venue": "Frontiers in Immunology",
+      "year": 2026,
+      "doi": "10.3389/fimmu.2026.1758379",
+      "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1758379/pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "The natural flavonoid morin demonstrates promise as a dual-function agent against hepatocellular carcinoma (HCC) and chronic liver disease. Preclinical studies indicate it counteracts toxin-induced liver injury by modulating oxidative stress and inflammation via pathways like Nrf2/HO-1 and NF-κB. In HCC, morin enhances the efficacy of cisplatin by suppressing PARP1-mediated protective autophagy and DNA repair, while concurrently mitigating the drug’s nephrotoxic side effects. This capacity to simultaneously combat tumor progression and protect normal tissues positions morin as a versatile therapeutic candidate. Its clinical translation will require formal validation in human studies and the development of advanced delivery systems to overcome restrictions in bioavailability.",
+      "language": "en",
+      "matched_keyword": "fetal alcohol syndrome zebrafish model",
+      "source": "openalex"
+    },
+    {
+      "title": "Development and psychometric validation of a novel, self-report visual processing questionnaire (ViPro-SR) for neurodivergent adults",
+      "authors": [
+        "Fiona Rattray",
+        "Nora Uglik-Marucha",
+        "Jacqueline Nonweiler",
+        "Dorota Ali",
+        "Michael Absoud",
+        "Francesca Happé"
+      ],
+      "venue": "Current Psychology",
+      "year": 2026,
+      "doi": "10.1007/s12144-026-09409-7",
+      "url": "https://link.springer.com/content/pdf/10.1007/s12144-026-09409-7.pdf",
+      "pmid": "",
+      "pubmed_url": "",
+      "abstract": "Differences in visual sensory sensitivity/reactivity are documented in autism and ADHD. Measuring these differences could guide interventions and accommodations, improving quality of life. No current self-report questionnaires focus specifically on the range of affective and behavioural responses to visual stimuli reported in autism and ADHD. This study aimed to develop such a measure (ViPro-SR) for neurodivergent adults. Using online survey responses, psychometric properties of ViPro-SR were assessed, including factor structure, gender-related measurement invariance, internal consistency reliability and validity. An 11-item, stable 3-factor solution was derived, with factors representing: hypersensitivity to contrast, detail focus, and peripheral vision activation. Internal consistency reliability was satisfactory for the total scale (ω = 0.85) and each subscale (ω > 0.70). Evidence towards convergent validity of ViPro-SR was provided through highly significant, moderate to strong correlations with existing sensory measures. Discriminative validity was supported by significant differences in ViPro-SR total scores between autistic/ADHD groups and a not autistic/ADHD comparison group. ViPro-SR is a psychometrically sound instrument, currently recommended for subscale-level scoring, that could inform visual sensory accommodations and contribute to a research toolkit.",
+      "language": "en",
+      "matched_keyword": "electroretinogram",
+      "source": "openalex"
+    }
+  ]
+}

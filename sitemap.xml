@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — Saszik Lab site
+  Single-page site; only the root URL needs to be listed.
+  developer to replace the <loc> domain once the custom domain is confirmed.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://saszyklab.neiu.edu/</loc>
+    <!-- developer to replace URL -->
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
