@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T21:16:56Z",
+  "generated_at": "2026-07-01T16:43:37Z",
   "source": "rss_feeds",
   "feed_sources": [
     "Neuroscience News",
@@ -9,19 +9,11 @@
   ],
   "results": [
     {
-      "title": "Model Identifies the Exact Threshold for Optimal Ambition",
+      "title": "Researchers Grow Rare Eye Vessel Cells to Halt Vision Loss",
       "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/math-model-optimal-ambition-30789/",
-      "date": "2026-05-30",
-      "summary": "A new study leverages sequential search modeling to demonstrate that optimal human ambition rests squarely in the middle: strictly above average but strictly finite.",
-      "language": "en"
-    },
-    {
-      "title": "Dopamine Locks in Stress-Induced Sexual Dysfunction",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/dopamine-stress-sexual-dysfunction-30788/",
-      "date": "2026-05-30",
-      "summary": "A new study leverages the Drosophila fruit fly model to isolate the exact molecular mechanisms connecting environmental stress to courtship suppression.",
+      "url": "https://neurosciencenews.com/ipsc-retinal-endothelial-cells-regeneration-30968/",
+      "date": "2026-06-30",
+      "summary": "A new study demonstrates the first successful generation of retinal endothelial cells from induced pluripotent stem cells (iPSCs). When tested in vitro, the cells accurately modeled the tissue...",
       "language": "en"
     },
     {
@@ -49,35 +41,19 @@
       "language": "en"
     },
     {
-      "title": "AI System Successfully Decodes and Tracks Pain via EEG",
+      "title": "Mice Use Strategic Infotaxis to Overcome Poor Vision",
       "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/pain-ai-platform-eeg-delta-waves-30793/",
-      "date": "2026-06-01",
-      "summary": "A new study introduces an artificial intelligence framework that analyzes EEG signals to objectively classify pain intensity.",
+      "url": "https://neurosciencenews.com/visual-infotaxis-active-sensing-30966/",
+      "date": "2026-06-30",
+      "summary": "Mice utilize visual infotaxis, moving strategically to maximize information gain, to identify partially occluded objects inside a custom virtual reality arena. This active sensing behavior scales...",
       "language": "en"
     },
     {
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "date": "2026-04-17",
-      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These...",
-      "language": "en"
-    },
-    {
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "date": "2026-04-29",
-      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists discover the brain’s hidden “stop scratching” switch",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
-      "date": "2026-05-09",
-      "summary": "Scientists have uncovered a hidden “stop-scratching” signal in the nervous system that tells your brain when enough scratching is enough. The discovery centers on a molecule called TRPV4, which acts...",
+      "title": "Why We Make Lip-Reading Errors",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com/lip-reading-errors-visual-neuroscience-30965/",
+      "date": "2026-06-30",
+      "summary": "A new study maps 20,000 English words by their visual mouth shapes (visemes), demonstrating that lip-reading errors are non-random and structurally driven by dense, compressed clusters of visual...",
       "language": "en"
     },
     {
@@ -89,14 +65,6 @@
       "language": "en"
     },
     {
-      "title": "When Quiet Undersea Volcanoes Turn Disruptive",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
-      "date": "2026-05-26",
-      "summary": "Earth’s largest volcanic system, hidden in mountain chains under the sea, has long been assumed to erupt only quietly. The shallow seafloor off Iceland tells another story. The post When Quiet...",
-      "language": "en"
-    },
-    {
       "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
       "source": "Science Daily",
       "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
@@ -105,27 +73,59 @@
       "language": "en"
     },
     {
-      "title": "Whole-Brain Dynamics Predict Social Approach",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "date": "2026-06-10",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "date": "2026-06-10",
+      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings...",
+      "language": "en"
+    },
+    {
+      "title": "10 surprising ways diabetes and dementia are connected",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260616103128.htm",
+      "date": "2026-06-16",
+      "summary": "Diabetes and dementia appear to be closely intertwined, with each condition potentially influencing the other. Problems with insulin and glucose can affect the brain’s energy supply, increase...",
+      "language": "en"
+    },
+    {
+      "title": "New brain study reveals speech learning works differently than we thought",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
+      "date": "2026-06-19",
+      "summary": "A new study suggests that learning and remembering speech relies more on how the brain processes sounds and sensations than on the areas that control mouth and face movements. The discovery could...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
+      "date": "2026-06-19",
+      "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory,...",
+      "language": "en"
+    },
+    {
+      "title": "This common vitamin deficiency can mimic normal aging",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+      "date": "2026-06-23",
+      "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100...",
+      "language": "en"
+    },
+    {
+      "title": "Viral Infection Found to Trigger Parkinson’s Brain Damage",
       "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/neural-pre-decision-state-social-approach-30796/",
-      "date": "2026-06-01",
-      "summary": "Can an invisible, brain-wide electrical shift accurately predict our social choices several seconds before we even make them? A neuro-behavioral study unmasks a distinct neural \"pre-decision state\"...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "date": "2026-04-05",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists find hidden brain cells helping deadly cancer grow",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
-      "date": "2026-04-05",
-      "summary": "Scientists in Canada have uncovered a surprising weakness in glioblastoma, one of the deadliest brain cancers. They found that certain brain cells—once believed to only support healthy nerves—can...",
+      "url": "https://neurosciencenews.com/viral-infection-model-parkinsons-disease-30964/",
+      "date": "2026-06-29",
+      "summary": "A new study demonstrates that a non-toxic viral infection via TMEV triggers the exact dopaminergic neuron destruction and progressive gait degradation seen in human Parkinson's disease, establishing...",
       "language": "en"
     }
   ]
