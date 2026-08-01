@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:43:37Z",
+  "generated_at": "2026-08-01T10:02:45Z",
   "source": "rss_feeds",
   "feed_sources": [
     "Neuroscience News",
@@ -9,83 +9,19 @@
   ],
   "results": [
     {
-      "title": "Researchers Grow Rare Eye Vessel Cells to Halt Vision Loss",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/ipsc-retinal-endothelial-cells-regeneration-30968/",
-      "date": "2026-06-30",
-      "summary": "A new study demonstrates the first successful generation of retinal endothelial cells from induced pluripotent stem cells (iPSCs). When tested in vitro, the cells accurately modeled the tissue...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
-      "date": "2026-05-15",
-      "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool...",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+      "date": "2026-06-25",
+      "summary": "What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today's leading theory of the brain—as a prediction machine constantly...",
       "language": "en"
     },
     {
-      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+      "title": "Drinking to cope with stress may permanently rewire your brain",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-      "date": "2026-05-26",
-      "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive...",
-      "language": "en"
-    },
-    {
-      "title": "CBD may slow Alzheimer’s by calming the brain’s immune system",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082507.htm",
-      "date": "2026-05-28",
-      "summary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using...",
-      "language": "en"
-    },
-    {
-      "title": "Mice Use Strategic Infotaxis to Overcome Poor Vision",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/visual-infotaxis-active-sensing-30966/",
-      "date": "2026-06-30",
-      "summary": "Mice utilize visual infotaxis, moving strategically to maximize information gain, to identify partially occluded objects inside a custom virtual reality arena. This active sensing behavior scales...",
-      "language": "en"
-    },
-    {
-      "title": "Why We Make Lip-Reading Errors",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/lip-reading-errors-visual-neuroscience-30965/",
-      "date": "2026-06-30",
-      "summary": "A new study maps 20,000 English words by their visual mouth shapes (visemes), demonstrating that lip-reading errors are non-random and structurally driven by dense, compressed clusters of visual...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
-      "date": "2026-05-15",
-      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the...",
-      "language": "en"
-    },
-    {
-      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
-      "date": "2026-05-28",
-      "summary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose...",
-      "language": "en"
-    },
-    {
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "date": "2026-06-10",
-      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "date": "2026-06-10",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings...",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030437.htm",
+      "date": "2026-06-26",
+      "summary": "Using alcohol to cope with stress when young may permanently alter the brain, making it harder to adapt to challenges and increasing the risk of returning to drinking later in life. Researchers also...",
       "language": "en"
     },
     {
@@ -121,11 +57,75 @@
       "language": "en"
     },
     {
-      "title": "Viral Infection Found to Trigger Parkinson’s Brain Damage",
-      "source": "Neuroscience News",
-      "url": "https://neurosciencenews.com/viral-infection-model-parkinsons-disease-30964/",
-      "date": "2026-06-29",
-      "summary": "A new study demonstrates that a non-toxic viral infection via TMEV triggers the exact dopaminergic neuron destruction and progressive gait degradation seen in human Parkinson's disease, establishing...",
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "date": "2026-07-21",
+      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could...",
+      "language": "en"
+    },
+    {
+      "title": "A hidden gene finally explains this rare neurological disorder",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032046.htm",
+      "date": "2026-06-12",
+      "summary": "Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team...",
+      "language": "en"
+    },
+    {
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "date": "2026-06-13",
+      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain,...",
+      "language": "en"
+    },
+    {
+      "title": "Your brain can keep improving into your 90s, study finds",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "date": "2026-06-13",
+      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older....",
+      "language": "en"
+    },
+    {
+      "title": "Learning a musical instrument in your 70s could help protect memory",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
+      "date": "2026-06-13",
+      "summary": "Learning a musical instrument later in life may help keep the brain younger for longer. In a four-year study, older adults who continued practicing maintained their memory performance and showed less...",
+      "language": "en"
+    },
+    {
+      "title": "Why grandparents matter more than ever for children's mental health",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+      "date": "2026-06-13",
+      "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful...",
+      "language": "en"
+    },
+    {
+      "title": "Copper drug clears toxic Alzheimer’s proteins and restores memory",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033835.htm",
+      "date": "2026-06-15",
+      "summary": "A copper-based compound restored the brain’s ability to clear toxic Alzheimer’s proteins, dramatically reducing amyloid buildup and improving memory in laboratory experiments. The findings point to a...",
+      "language": "en"
+    },
+    {
+      "title": "This popular brain supplement was linked to shorter lifespans in men",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
+      "date": "2026-06-15",
+      "summary": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists May Have Found What Really Triggers Alzheimer’s Disease",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032209.htm",
+      "date": "2026-06-17",
+      "summary": "Scientists may have uncovered a hidden trigger behind Alzheimer’s disease. Instead of plaques being the root cause, amyloid beta appears to interfere with tau, a protein that helps keep neurons...",
       "language": "en"
     }
   ]
