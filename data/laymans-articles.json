@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:17:49Z",
+  "generated_at": "2026-10-01T15:15:36Z",
   "source": "rss_feeds",
   "feed_sources": [
     "Neuroscience News",
@@ -17,19 +17,19 @@
       "language": "en"
     },
     {
+      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+      "date": "2026-09-25",
+      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts,...",
+      "language": "en"
+    },
+    {
       "title": "HEPA air purifiers may boost brain function after just one month",
       "source": "Science Daily",
       "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
       "date": "2026-08-30",
       "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a...",
-      "language": "en"
-    },
-    {
-      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
-      "date": "2026-08-11",
-      "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a...",
       "language": "en"
     },
     {
@@ -41,27 +41,27 @@
       "language": "en"
     },
     {
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "title": "Scientists recreated what mice saw from brain activity alone",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
-      "date": "2026-07-21",
-      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "date": "2026-09-14",
+      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain...",
       "language": "en"
     },
     {
-      "title": "Scientists discover why poor sleep may harm some brains more",
+      "title": "When what you see doesn’t make sense, your brain does something remarkable",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-      "date": "2026-07-29",
-      "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+      "date": "2026-09-23",
+      "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while...",
       "language": "en"
     },
     {
-      "title": "New autism therapy shows surprising benefits even in adult mice",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-      "date": "2026-08-05",
-      "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in...",
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "date": "2026-10-01",
+      "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension...",
       "language": "en"
     },
     {
@@ -73,27 +73,11 @@
       "language": "en"
     },
     {
-      "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
-      "date": "2026-08-11",
-      "summary": "AI has helped scientists measure the brain’s hidden cleaning system, revealing that fluid moves rapidly around its outer spaces but about 50 times more slowly through deep tissue. The discovery could...",
-      "language": "en"
-    },
-    {
-      "title": "Researchers reveal deeper workings of brain’s information hub",
+      "title": "Scientists reveal how the brain changes its connections when uncertainty strikes",
       "source": "Science Daily",
       "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
       "date": "2026-08-19",
       "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain...",
-      "language": "en"
-    },
-    {
-      "title": "A New Framework for How the Brain Compresses Our Noisy World",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
-      "date": "2026-08-24",
-      "summary": "An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet. The post A New Framework for How the Brain Compresses...",
       "language": "en"
     },
     {
@@ -105,27 +89,43 @@
       "language": "en"
     },
     {
-      "title": "Your fingers may hold a secret of human brain evolution",
+      "title": "Stanford scientists discover the human brain may actually be two separate organs",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-      "date": "2026-07-17",
-      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+      "date": "2026-09-20",
+      "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery...",
       "language": "en"
     },
     {
-      "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-      "date": "2026-07-18",
-      "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "date": "2026-09-21",
+      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the...",
       "language": "en"
     },
     {
-      "title": "Magic mushrooms may reshape the brain long after the trip ends",
+      "title": "Resetting the body clock could help the brain recover after stroke",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
-      "date": "2026-07-19",
-      "summary": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
+      "date": "2026-09-24",
+      "summary": "Strengthening the body’s natural daily rhythms helped mice recover after stroke by improving the brain’s waste-clearing system and reducing lingering inflammation. The approach worked even when...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm",
+      "date": "2026-09-25",
+      "summary": "Scientists found that immune cells contributing to Alzheimer’s-related brain damage may be activated in lymph nodes outside the brain before traveling into the nervous system. Blocking this pathway...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "date": "2026-09-27",
+      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and...",
       "language": "en"
     }
   ]
