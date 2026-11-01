@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:15:36Z",
+  "generated_at": "2026-11-01T14:50:55Z",
   "source": "rss_feeds",
   "feed_sources": [
     "Neuroscience News",
@@ -9,11 +9,11 @@
   ],
   "results": [
     {
-      "title": "Quitting alcohol may prime the brain for relapse",
+      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-      "date": "2026-08-22",
-      "summary": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they...",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+      "date": "2026-10-18",
+      "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality....",
       "language": "en"
     },
     {
@@ -25,27 +25,11 @@
       "language": "en"
     },
     {
-      "title": "HEPA air purifiers may boost brain function after just one month",
+      "title": "Scientists discover a hidden messaging system deep inside the brain",
       "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-      "date": "2026-08-30",
-      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a...",
-      "language": "en"
-    },
-    {
-      "title": "Your brain may not actually “make” decisions",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-      "date": "2026-08-23",
-      "summary": "A neuroscientist is challenging the idea that the brain contains a central system that actually “makes” our decisions. What we experience as choosing may instead emerge from the continuous...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists recreated what mice saw from brain activity alone",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-      "date": "2026-09-14",
-      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain...",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+      "date": "2026-10-22",
+      "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the...",
       "language": "en"
     },
     {
@@ -54,38 +38,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
       "date": "2026-09-23",
       "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while...",
-      "language": "en"
-    },
-    {
-      "title": "What Does the Fourth Dimension Actually Look Like?",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-      "date": "2026-10-01",
-      "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension...",
-      "language": "en"
-    },
-    {
-      "title": "MIT neuroscientists discover the brain can reason without words",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
-      "date": "2026-08-11",
-      "summary": "MIT neuroscientists have found striking evidence that language and logical reasoning are powered by separate systems in the brain. Even people with severe language impairments caused by stroke were...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists reveal how the brain changes its connections when uncertainty strikes",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-      "date": "2026-08-19",
-      "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain...",
-      "language": "en"
-    },
-    {
-      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
-      "date": "2026-08-26",
-      "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful...",
       "language": "en"
     },
     {
@@ -126,6 +78,54 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
       "date": "2026-09-27",
       "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and...",
+      "language": "en"
+    },
+    {
+      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+      "date": "2026-09-30",
+      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in...",
+      "language": "en"
+    },
+    {
+      "title": "Brain cells meant to protect us may be fueling cognitive decline",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "date": "2026-10-15",
+      "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce...",
+      "language": "en"
+    },
+    {
+      "title": "Your aging brain may be trading memory for something more valuable",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+      "date": "2026-10-19",
+      "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists...",
+      "language": "en"
+    },
+    {
+      "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+      "date": "2026-10-21",
+      "summary": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells...",
+      "language": "en"
+    },
+    {
+      "title": "How Voting Is Like a Klein Bottle",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "date": "2026-10-26",
+      "summary": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+      "language": "en"
+    },
+    {
+      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+      "date": "2026-09-20",
+      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give...",
       "language": "en"
     }
   ]
